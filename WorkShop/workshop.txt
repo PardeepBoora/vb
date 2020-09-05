@@ -1,0 +1,16 @@
+﻿0\3\800\Programming in java
+0\3\800\Programming in vb
+0\3\800\Programming in C#
+0\5\1500\Advanced java
+0\5\1500\Advanced vb
+0\5\1500\Advanced C#
+0\5\1500\Web Application Programming
+2\3\700\intro to networking
+2\5\1900\Advanced networking
+2\3\600\Mobile network
+1\5\2000\intro to Database
+1\4\2000\Database Adminstrative
+3\3\670\intro to linux/unix
+3\5\2500\Advance linux/unix
+3\4\1800\window Adminstrative
+
